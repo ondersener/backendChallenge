@@ -29,4 +29,26 @@
 <a href="https://github.com/ondersener/backendChallenge/blob/main/project_images/emloyee_save.jpg">
 <img src="https://github.com/ondersener/backendChallenge/blob/main/project_images/emloyee_save.jpg" width="3000" style="max-width:100%;"></a>
 
+<a href="https://github.com/ondersener/backendChallenge/blob/main/project_images/emloyee_delete.jpg">
+<img src="https://github.com/ondersener/backendChallenge/blob/main/project_images/emloyee_delete.jpg" width="3000" style="max-width:100%;"></a>
+
+<a href="https://github.com/ondersener/backendChallenge/blob/main/project_images/emloyee_update.jpg">
+<img src="https://github.com/ondersener/backendChallenge/blob/main/project_images/emloyee_update.jpg" width="3000" style="max-width:100%;"></a>
+
+<a href="https://github.com/ondersener/backendChallenge/blob/main/project_images/emloyee_list.jpg">
+<img src="https://github.com/ondersener/backendChallenge/blob/main/project_images/emloyee_list.jpg" width="3000" style="max-width:100%;"></a>
+
+<a href="https://github.com/ondersener/backendChallenge/blob/main/project_images/company_save.jpg">
+<img src="https://github.com/ondersener/backendChallenge/blob/main/project_images/company_save.jpg" width="3000" style="max-width:100%;"></a>
+
+<a href="https://github.com/ondersener/backendChallenge/blob/main/project_images/company_delete.jpg">
+<img src="https://github.com/ondersener/backendChallenge/blob/main/project_images/company_delete.jpg" width="3000" style="max-width:100%;"></a>
+
+<a href="https://github.com/ondersener/backendChallenge/blob/main/project_images/company_update.jpg">
+<img src="https://github.com/ondersener/backendChallenge/blob/main/project_images/company_update.jpg" width="3000" style="max-width:100%;"></a>
+
+<a href="https://github.com/ondersener/backendChallenge/blob/main/project_images/company_list.jpg">
+<img src="https://github.com/ondersener/backendChallenge/blob/main/project_images/company_list.jpg" width="3000" style="max-width:100%;"></a>
+
+
 </p>
